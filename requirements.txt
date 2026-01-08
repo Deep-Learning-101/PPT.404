@@ -1,0 +1,5 @@
+google-genai
+gradio
+pdf2image
+Pillow
+python-dotenv
