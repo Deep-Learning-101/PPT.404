@@ -1,16 +1,3 @@
----
-title: NotebookLM Slide Decomposer (PDF 拆解神器)
-emoji: 🛠️
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.2.0
-app_file: app.py
-pinned: true
-license: mit
-short_description: 一鍵拆解 NotebookLM 生成的投影片：提取全文字 + 還原乾淨背景圖
----
-
 # 🛠️ NotebookLM 投影片 PDF 拆解神器
 _Powered by Google gemini-2.5-flash & gemini-2.5-flash-image_
 
